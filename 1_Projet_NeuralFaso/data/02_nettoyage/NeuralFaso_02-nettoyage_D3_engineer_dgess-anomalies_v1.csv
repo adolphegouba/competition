@@ -1,0 +1,581 @@
+feuille,tableau,nature,detail
+PRESCOLAIRE,PRESCOLAIRE / Tableau 1,cellule_texte_long_ignoree,ligne 18
+PRESCOLAIRE,PRESCOLAIRE / Tableau 3,en-tete_trompeur,colonne « REGION » contient en réalité des valeurs de type milieu
+PRESCOLAIRE,PRESCOLAIRE / Tableau 4,en-tete_texte_parasite,"colonne 6 : texte supplémentaire après l'année, seule l'année est conservée"
+PRESCOLAIRE,PRESCOLAIRE / Tableau 5,en-tete_texte_parasite,"colonne 14 : texte supplémentaire après l'année, seule l'année est conservée"
+Feuil1,Feuil1 / Tableau 1,en-tete_texte_parasite,"colonne 6 : texte supplémentaire après l'année, seule l'année est conservée"
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2015-2016 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2016-2017 : +11714% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2017-2018 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2017-2018 : +10452% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2018-2019 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2019-2020 : +8668% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2020-2021 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2020-2021 : +7294% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2021-2022 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2022-2023 : +3867% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2022-2023 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2023-2024 : +4754% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif BOUCLE DU MOUHOUN   2024-2025 : -95% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CASCADES   2015-2016 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CASCADES   2016-2017 : +6972% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CASCADES   2017-2018 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CASCADES   2017-2018 : +6863% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CASCADES   2018-2019 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CASCADES   2019-2020 : +5595% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CASCADES   2020-2021 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CASCADES   2020-2021 : +5234% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CASCADES   2021-2022 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CASCADES   2022-2023 : +3826% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CASCADES   2022-2023 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CASCADES   2023-2024 : +3443% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CASCADES   2024-2025 : -98% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2015-2016 : -95% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2016-2017 : +52% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE   2016-2017 : +1417% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2017-2018 : -91% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE   2018-2019 : +1030% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2018-2019 : -89% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE   2019-2020 : +737% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2020-2021 : -88% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE   2021-2022 : +779% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2021-2022 : -87% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE   2022-2023 : +668% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2023-2024 : -87% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE   2023-2024 : +689% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE   2024-2025 : -88% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE   2024-2025 : +746% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2015-2016 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2016-2017 : +5084% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2017-2018 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2018-2019 : +4626% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2018-2019 : -98% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2019-2020 : +41% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2019-2020 : +2800% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2020-2021 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2020-2021 : +2669% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2021-2022 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2022-2023 : +2298% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2023-2024 : -95% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2023-2024 : +1974% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2024-2025 : -95% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-EST   2024-2025 : +1901% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2015-2016 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2016-2017 : +4159% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2017-2018 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2018-2019 : +4016% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2018-2019 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2019-2020 : +3004% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2020-2021 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2020-2021 : +2632% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2021-2022 : -96% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2022-2023 : -34% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2022-2023 : +2870% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2023-2024 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2023-2024 : +2856% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-NORD   2024-2025 : -94% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2015-2016 : -99% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2016-2017 : +36% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2016-2017 : +5967% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2017-2018 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2018-2019 : +8849% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2018-2019 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2019-2020 : +3219% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2020-2021 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2020-2021 : +2950% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2021-2022 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2022-2023 : +2788% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2023-2024 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2023-2024 : +2594% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2024-2025 : -95% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-OUEST   2024-2025 : +1983% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2015-2016 : +5726% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2016-2017 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2017-2018 : +16486% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2017-2018 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2018-2019 : +10875% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2018-2019 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2019-2020 : +3436% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2020-2021 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2020-2021 : +3412% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2021-2022 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2021-2022 : +3362% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2022-2023 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2023-2024 : +2865% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2024-2025 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif CENTRE-SUD   2024-2025 : +2541% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2015-2016 : +5464% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif EST   2016-2017 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2017-2018 : +10119% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif EST   2018-2019 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2019-2020 : +7199% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif EST   2019-2020 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2020-2021 : +5469% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif EST   2020-2021 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2021-2022 : +4999% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif EST   2022-2023 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2022-2023 : +3315% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif EST   2023-2024 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2023-2024 : +3563% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif EST   2024-2025 : -95% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif EST   2024-2025 : +2145% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2015-2016 : +4386% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2016-2017 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2017-2018 : +4688% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2018-2019 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2019-2020 : +4451% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2019-2020 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2020-2021 : +3532% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2020-2021 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2021-2022 : +3218% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2022-2023 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2022-2023 : +2564% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2023-2024 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2023-2024 : +2266% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2024-2025 : -95% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif HAUTS-BASSINS   2024-2025 : +2142% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2015-2016 : +12252% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif NORD   2016-2017 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2017-2018 : +10750% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif NORD   2018-2019 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2019-2020 : +9139% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif NORD   2019-2020 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2020-2021 : +7983% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif NORD   2021-2022 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2021-2022 : +7134% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif NORD   2022-2023 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2022-2023 : +6251% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif NORD   2023-2024 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2023-2024 : +7325% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif NORD   2024-2025 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif NORD   2024-2025 : +3022% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2015-2016 : +8347% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2016-2017 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2017-2018 : +6427% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2017-2018 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2018-2019 : +5221% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2018-2019 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2019-2020 : +5452% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2019-2020 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2020-2021 : +3894% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2021-2022 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2021-2022 : +3793% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2022-2023 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2022-2023 : +3456% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2023-2024 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2023-2024 : +3065% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2024-2025 : -95% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif PLATEAU CENTRAL   2024-2025 : +2090% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SAHEL   2015-2016 : +16634% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SAHEL   2016-2017 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SAHEL   2017-2018 : +19830% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SAHEL   2018-2019 : -47% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SAHEL   2018-2019 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SAHEL   2019-2020 : +2503% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SAHEL   2019-2020 : -96% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SAHEL   2020-2021 : +2042% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SAHEL   2020-2021 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SAHEL   2021-2022 : +2726% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SAHEL   2022-2023 : -97% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SAHEL   2023-2024 : +68% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SAHEL   2023-2024 : +3270% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SAHEL   2024-2025 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2015-2016 : +7419% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2016-2017 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2017-2018 : +7743% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2018-2019 : -99% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2019-2020 : +7200% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2019-2020 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2020-2021 : +6097% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2020-2021 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2021-2022 : +5118% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2021-2022 : -98% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2022-2023 : +3607% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2023-2024 : -97% par rapport à l'année précédente
+Feuil1,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2023-2024 : +3489% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 1,rupture_forte_info,effectif SUD-OUEST   2024-2025 : -95% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Prive  2020-2021 : +36% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Prive  2022-2023 : -33% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Public  2022-2023 : -43% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles CENTRE-EST Prive  2019-2020 : +34% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles CENTRE-NORD Public  2022-2023 : -33% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles CENTRE-SUD Prive  2018-2019 : +35% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles EST Public  2021-2022 : -36% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles EST Public  2022-2023 : -35% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Prive  2018-2019 : -76% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Prive  2019-2020 : +52% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Prive  2022-2023 : -43% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Prive  2023-2024 : +76% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Public  2018-2019 : -47% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Public  2020-2021 : -48% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Public  2021-2022 : -42% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Public  2022-2023 : -36% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SAHEL Public  2023-2024 : +68% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SUD-OUEST Prive  2020-2021 : +87% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SUD-OUEST Prive  2021-2022 : -55% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SUD-OUEST Prive  2022-2023 : +64% par rapport à l'année précédente
+Feuil13,Tableau 13,rupture_forte_info,nb_ecoles SUD-OUEST Prive  2024-2025 : -39% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Communautaire  2018-2019 : +91% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2015-2016 : +1851% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2016-2017 : -93% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2017-2018 : +1531% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2017-2018 : -92% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2018-2019 : +1253% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2018-2019 : -91% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2019-2020 : +1100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2019-2020 : -90% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2020-2021 : +921% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2020-2021 : -90% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2021-2022 : +893% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2021-2022 : -89% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2022-2023 : +837% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2022-2023 : -89% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Prive  2023-2024 : +755% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Prive  2024-2025 : -89% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2015-2016 : +16383% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2016-2017 : -99% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2017-2018 : +13537% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2017-2018 : -99% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2018-2019 : +12544% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2018-2019 : -99% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2019-2020 : +11032% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2019-2020 : -99% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2020-2021 : +10314% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2020-2021 : -99% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2021-2022 : +8967% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2021-2022 : -99% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2022-2023 : +6530% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2023-2024 : -98% par rapport à l'année précédente
+Feuil2,Tableau 2,rupture_forte_info,effectif  Public  2023-2024 : +6873% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 2,rupture_forte_info,effectif  Public  2024-2025 : -97% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Indetermine 2022-2023 : +58% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Rural 2017-2018 : -99% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Rural 2018-2019 : +12599% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Rural 2018-2019 : -99% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Rural 2019-2020 : +7874% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Rural 2019-2020 : -99% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Rural 2020-2021 : +6780% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Rural 2021-2022 : -98% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Rural 2022-2023 : +5232% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Rural 2023-2024 : -98% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Rural 2023-2024 : +4720% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Rural 2024-2025 : -97% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Urbain 2017-2018 : -92% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Urbain 2017-2018 : +1214% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Urbain 2018-2019 : -91% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Urbain 2019-2020 : +902% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Urbain 2020-2021 : -90% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Urbain 2020-2021 : +902% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Urbain 2021-2022 : -90% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Urbain 2022-2023 : +875% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Urbain 2023-2024 : -89% par rapport à l'année précédente
+Feuil3,Tableau 3,rupture_forte_info,effectif   Urbain 2023-2024 : +905% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 3,rupture_forte_info,effectif   Urbain 2024-2025 : -90% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Communautaire  2018-2019 : +113% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Communautaire  2018-2019 : +90% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Communautaire  2016-2017 : -49% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Communautaire  2017-2018 : +44% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Communautaire  2018-2019 : +75% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Prive  2016-2017 : +41% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Prive  2017-2018 : +30% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Prive  2016-2017 : +45% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Prive  2016-2017 : +32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Prive  2017-2018 : +30% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Public  2016-2017 : +34% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Public  2024-2025 : +97% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Public  2016-2017 : +40% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Public  2024-2025 : +82% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 4,rupture_forte_info,effectif  Public  2024-2025 : +199% par rapport à l'année précédente
+Feuil5,Tableau 5,rupture_forte_info,nouveaux_inscrits_cp1 BOUCLE DU MOUHOUN   2022-2023 : -42% par rapport à l'année précédente
+Feuil5,Tableau 5,rupture_forte_info,nouveaux_inscrits_cp1 BOUCLE DU MOUHOUN   2023-2024 : +66% par rapport à l'année précédente
+Feuil5,Tableau 5,rupture_forte_info,nouveaux_inscrits_cp1 BOUCLE DU MOUHOUN   2024-2025 : +35% par rapport à l'année précédente
+Feuil5,Tableau 5,rupture_forte_info,nouveaux_inscrits_cp1 EST   2023-2024 : +86% par rapport à l'année précédente
+Feuil5,Tableau 5,rupture_forte_info,nouveaux_inscrits_cp1 NORD   2023-2024 : +33% par rapport à l'année précédente
+Feuil5,Tableau 5,rupture_forte_info,nouveaux_inscrits_cp1 SAHEL   2018-2019 : -52% par rapport à l'année précédente
+Feuil5,Tableau 5,rupture_forte_info,nouveaux_inscrits_cp1 SAHEL   2023-2024 : +77% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Communautaire  2016-2017 : -38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Communautaire  2017-2018 : +80% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Communautaire  2019-2020 : +189% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Communautaire  2020-2021 : -54% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Communautaire  2021-2022 : -50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Communautaire  2022-2023 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Prive  2016-2017 : +60% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Prive  2019-2020 : -71% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Prive  2020-2021 : +300% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Public  2016-2017 : +83% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Public  2020-2021 : +30% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Public  2023-2024 : +45% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles BOUCLE DU MOUHOUN Public  2024-2025 : +462% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Communautaire  2016-2017 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Communautaire  2017-2018 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Communautaire  2021-2022 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Communautaire  2024-2025 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Prive  2016-2017 : +40% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Prive  2018-2019 : +38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Prive  2020-2021 : +45% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Public  2016-2017 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Public  2017-2018 : -38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Public  2019-2020 : +40% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Public  2021-2022 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CASCADES Public  2024-2025 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2016-2017 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2017-2018 : +67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2019-2020 : +13167% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2020-2021 : -99% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2021-2022 : +83% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2022-2023 : +173% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2023-2024 : -37% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Communautaire  2024-2025 : -68% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Prive  2016-2017 : +78% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Prive  2017-2018 : +39% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Prive  2019-2020 : -99% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Prive  2020-2021 : +11329% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Public  2016-2017 : +90% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE Public  2024-2025 : +76% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-EST Prive  2016-2017 : +106% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-EST Prive  2019-2020 : +54% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-EST Public  2016-2017 : +67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-EST Public  2019-2020 : +78% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-EST Public  2023-2024 : +62% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-EST Public  2024-2025 : +148% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Communautaire  2018-2019 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Communautaire  2019-2020 : -69% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Communautaire  2020-2021 : +180% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Communautaire  2022-2023 : -48% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Communautaire  2024-2025 : +84% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Prive  2016-2017 : +77% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Prive  2019-2020 : +165% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Prive  2020-2021 : -55% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Prive  2024-2025 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Public  2016-2017 : +67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Public  2020-2021 : +40% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Public  2022-2023 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-NORD Public  2024-2025 : +327% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-OUEST Communautaire  2018-2019 : +130% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-OUEST Prive  2016-2017 : +125% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-OUEST Prive  2018-2019 : +79% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-OUEST Prive  2019-2020 : +56% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-OUEST Public  2016-2017 : +60% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-OUEST Public  2018-2019 : +70% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-OUEST Public  2024-2025 : +202% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Communautaire  2016-2017 : -96% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Communautaire  2017-2018 : +300% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Communautaire  2018-2019 : +400% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Communautaire  2019-2020 : -65% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Communautaire  2020-2021 : +214% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Prive  2016-2017 : -46% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Prive  2019-2020 : +444% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Prive  2020-2021 : -65% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Prive  2021-2022 : -41% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Prive  2023-2024 : +38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Prive  2024-2025 : +36% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Public  2016-2017 : +100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Public  2021-2022 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Public  2023-2024 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles CENTRE-SUD Public  2024-2025 : +125% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Communautaire  2016-2017 : -90% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Communautaire  2017-2018 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Communautaire  2018-2019 : +233% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Communautaire  2019-2020 : +90% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Communautaire  2020-2021 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Communautaire  2023-2024 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Communautaire  2024-2025 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Prive  2016-2017 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Prive  2017-2018 : -42% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Prive  2019-2020 : -59% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Prive  2020-2021 : +157% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles EST Public  2024-2025 : +155% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Communautaire  2016-2017 : -57% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Communautaire  2017-2018 : -67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Communautaire  2018-2019 : +75% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Communautaire  2019-2020 : +1486% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Communautaire  2020-2021 : -84% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Communautaire  2023-2024 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Communautaire  2024-2025 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Prive  2016-2017 : +9500% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Prive  2017-2018 : -41% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Prive  2019-2020 : -81% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Prive  2020-2021 : +900% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Prive  2023-2024 : +32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Public  2016-2017 : +525% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Public  2017-2018 : -36% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Public  2020-2021 : +35% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles HAUTS-BASSINS Public  2024-2025 : +157% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Communautaire  2016-2017 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Communautaire  2017-2018 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Communautaire  2018-2019 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Communautaire  2021-2022 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Communautaire  2022-2023 : -67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Communautaire  2023-2024 : +100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Prive  2016-2017 : +79% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles NORD Public  2024-2025 : +407% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Communautaire  2016-2017 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Communautaire  2017-2018 : +62% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Communautaire  2024-2025 : +31% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Prive  2016-2017 : +58% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Prive  2019-2020 : +79% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Prive  2022-2023 : +38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Public  2018-2019 : +125% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles PLATEAU CENTRAL Public  2024-2025 : +212% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2016-2017 : -60% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2017-2018 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2018-2019 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2019-2020 : -50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2020-2021 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2021-2022 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2022-2023 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Communautaire  2023-2024 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Prive  2018-2019 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Prive  2019-2020 : +100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Prive  2020-2021 : -67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Prive  2022-2023 : -50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Prive  2023-2024 : +100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Public  2016-2017 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Public  2018-2019 : +75% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SAHEL Public  2023-2024 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Communautaire  2020-2021 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Communautaire  2021-2022 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Communautaire  2022-2023 : +300% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Communautaire  2023-2024 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Prive  2017-2018 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Prive  2018-2019 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Prive  2019-2020 : +75% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Public  2016-2017 : +78% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Public  2017-2018 : -31% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Public  2019-2020 : +30% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 7,rupture_forte_info,nb_ecoles SUD-OUEST Public  2024-2025 : +205% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Communautaire  2017-2018 : +100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Communautaire  2018-2019 : -50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Communautaire  2020-2021 : +67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Communautaire  2021-2022 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Communautaire  2022-2023 : -40% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Communautaire  2023-2024 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Public  2017-2018 : +41% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Public  2023-2024 : +39% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles BOUCLE DU MOUHOUN Public  2024-2025 : +200% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Communautaire  2016-2017 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Communautaire  2017-2018 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Communautaire  2021-2022 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Communautaire  2023-2024 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Communautaire  2024-2025 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Prive  2016-2017 : +62% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Prive  2017-2018 : +69% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Prive  2019-2020 : +39% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Prive  2020-2021 : +34% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Public  2019-2020 : +38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CASCADES Public  2021-2022 : +32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Communautaire  2016-2017 : +167% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Communautaire  2017-2018 : +62% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Communautaire  2021-2022 : +46% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Communautaire  2022-2023 : +263% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Communautaire  2023-2024 : -42% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Communautaire  2024-2025 : -72% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Prive  2016-2017 : +55% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Prive  2017-2018 : +61% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Public  2016-2017 : +67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE Public  2017-2018 : +42% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Communautaire  2018-2019 : +46% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Communautaire  2019-2020 : +42% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Communautaire  2023-2024 : +34% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Prive  2016-2017 : +57% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Prive  2019-2020 : +46% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Public  2016-2017 : +41% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Public  2019-2020 : +48% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-EST Public  2024-2025 : +69% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Communautaire  2016-2017 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Communautaire  2017-2018 : +37% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Communautaire  2020-2021 : +44% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Communautaire  2022-2023 : -41% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Communautaire  2024-2025 : +141% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Prive  2016-2017 : +30% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Prive  2019-2020 : +32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Prive  2024-2025 : +32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Public  2016-2017 : +38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Public  2019-2020 : +44% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Public  2021-2022 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Public  2022-2023 : +55% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-NORD Public  2024-2025 : +230% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Communautaire  2016-2017 : +44% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Communautaire  2017-2018 : -55% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Communautaire  2018-2019 : +192% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Communautaire  2023-2024 : +34% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Prive  2016-2017 : +97% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Prive  2018-2019 : +74% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Prive  2020-2021 : +32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Public  2018-2019 : +67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Public  2020-2021 : +39% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Public  2023-2024 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-OUEST Public  2024-2025 : +84% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Communautaire  2016-2017 : -96% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Communautaire  2017-2018 : +350% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Communautaire  2018-2019 : +189% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Communautaire  2019-2020 : +35% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Prive  2016-2017 : -63% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Prive  2019-2020 : +117% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Prive  2021-2022 : -32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Prive  2022-2023 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Public  2016-2017 : +88% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Public  2023-2024 : +62% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles CENTRE-SUD Public  2024-2025 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Communautaire  2016-2017 : -89% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Communautaire  2017-2018 : +67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Communautaire  2018-2019 : +120% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Communautaire  2020-2021 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Communautaire  2023-2024 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Communautaire  2024-2025 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Prive  2017-2018 : -34% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Prive  2018-2019 : +38% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Public  2017-2018 : +45% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Public  2023-2024 : +35% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles EST Public  2024-2025 : +49% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Communautaire  2016-2017 : -50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Communautaire  2017-2018 : -70% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Communautaire  2018-2019 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Communautaire  2019-2020 : +100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Communautaire  2020-2021 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Communautaire  2024-2025 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Prive  2016-2017 : +8800% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Prive  2019-2020 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Public  2016-2017 : +267% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Public  2020-2021 : +31% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles HAUTS-BASSINS Public  2024-2025 : +77% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Communautaire  2016-2017 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Communautaire  2017-2018 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Communautaire  2018-2019 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Communautaire  2021-2022 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Communautaire  2022-2023 : -67% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Communautaire  2023-2024 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Prive  2016-2017 : +71% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles NORD Public  2024-2025 : +170% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Communautaire  2017-2018 : +88% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Communautaire  2023-2024 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Prive  2016-2017 : +100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Prive  2017-2018 : +40% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Prive  2018-2019 : -32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Prive  2019-2020 : +32% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Public  2018-2019 : +69% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Public  2021-2022 : +44% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles PLATEAU CENTRAL Public  2024-2025 : +74% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Communautaire  2016-2017 : -78% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Communautaire  2017-2018 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Communautaire  2018-2019 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Communautaire  2020-2021 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Communautaire  2021-2022 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Communautaire  2022-2023 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Communautaire  2023-2024 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Prive  2018-2019 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Prive  2020-2021 : -50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Prive  2022-2023 : -50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Prive  2023-2024 : +200% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Public  2016-2017 : +33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Public  2018-2019 : +90% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SAHEL Public  2023-2024 : +50% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Communautaire  2020-2021 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Communautaire  2021-2022 : -33% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Communautaire  2022-2023 : +400% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Communautaire  2023-2024 : +140% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Prive  2017-2018 : -100% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Prive  2018-2019 : +inf% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Prive  2019-2020 : +80% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Prive  2022-2023 : +31% par rapport à l'année précédente
+PRESCOLAIRE,Tableau 8,rupture_forte_info,nb_salles SUD-OUEST Public  2024-2025 : +77% par rapport à l'année précédente
